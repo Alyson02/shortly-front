@@ -1,0 +1,47 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    
+}
+
+
+svg{
+    display: block;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.opcoes{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.cabecalho p{
+    color:#5D9040;
+    cursor: pointer;
+}
+
+
+.opcoes li a{
+    text-decoration: none;
+    color: #9c9c9c;
+}
+
+
+.opcoes li{
+    display: inline-block;
+    padding-right: 27px;
+}
+
+
+.coloridinho{
+    color:#5D9040;
+}
+
+a{
+    text-decoration: none;
+}
